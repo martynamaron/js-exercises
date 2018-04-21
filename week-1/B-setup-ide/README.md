@@ -6,8 +6,9 @@ There are some tools that will help you to write code. One of these, [Prettier](
 * Search for `Prettier - Code formatter`
 * Click install on the top result
 
-### 2. Enable formatting on save
+### 2. Enable formatting on save and auto-save
 
 * In Visual Studio open the settings file (see https://code.visualstudio.com/docs/getstarted/settings#_creating-user-and-workspace-settings)
 * Search for `editor format`
 * Set `editor.formatOnSave` and `editor.formatOnPaste` to true
+* Search for `files.autoSave` and set it to `onFocusChange`
