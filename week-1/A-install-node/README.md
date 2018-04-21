@@ -21,6 +21,6 @@ Source: https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-
 
 ### 2. Test installation
 
-Go to your terminal and run the command: `node -v`.
+Go to your terminal and run the command: `node -v`. If you already had your terminal opened, you need to refresh/restart it. You can also simply close it and re-open it.
 
 You should get the node version printed on your terminal. For example, `v8.9.3`.
